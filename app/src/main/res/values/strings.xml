@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">2018110411高艳</string>
+    <string name="title_home">CardGame</string>
+    <string name="title_dashboard">Weather</string>
+    <string name="title_notifications">MusicPlayer</string>
+    <string name="title_watch">Watch</string>
+    <string name="timer">00:00:00</string>
+    <string name="start">start</string>
+    <string name="restart">restart</string>
+    <string name="watch">Watch</string>
+    <string name="score">Score:</string>
+    <string name="reset">Reset</string>
+    <string name="stop">stop</string>
+    <string name="textview">music</string>
+    <string name="play">play</string>
+    <string name="next">next</string>
+    <string name="pause">pause</string>
+    <string name="prev">prev</string>
+    <string name="image">IMAGE</string>
+    <string name="textView_city">City</string>
+    <string name="textView_wendu">wendu</string>
+    <string name="textView_shidu">shidu</string>
+    <string name="textView_province">Province</string>
+</resources>
